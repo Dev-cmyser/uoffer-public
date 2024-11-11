@@ -6,3 +6,6 @@
 	path = require-service
 	url = https://github.com/himmel520/require.git
 	branch = dev
+[submodule "question-service"]
+	path = question-service
+	url = https://github.com/himmel520/question-service.git
